@@ -151,7 +151,7 @@ The repository is configured for GitHub Pages using the `main` branch and reposi
 
 The public interactive artifact is available at:
 
-**https://homelander2005-creator.github.io/Dataforge-2026-synaptic-plasticity/**
+**https://homelander2005-creator.github.io/Tejas/**
 
 ## Accessibility and usability
 
