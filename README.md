@@ -14,7 +14,7 @@ This project turns that idea into an interactive learning artifact. Instead of o
 
 The main artifact is a self-contained browser-based simulation.
 
-**[Open the interactive Synaptic Memory Lab](https://homelander2005-creator.github.io/Dataforge-2026-synaptic-plasticity/)**
+**[Open the interactive Synaptic Memory Lab](https://homelander2005-creator.github.io/Tejas/)**
 
 It requires no sign-in, external libraries, or build process.
 
